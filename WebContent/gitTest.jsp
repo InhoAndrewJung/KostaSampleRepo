@@ -8,5 +8,10 @@
 </head>
 <body>
 hello.git
+<ul>
+	<li>apple</li>
+	<li>melon</li>
+	<li>banana</li>
+</ul>
 </body>
 </html>
